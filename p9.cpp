@@ -2,7 +2,7 @@
  * Problem 9: Special Pythagorean Triplet
  *
  * A Pythagorean triplet is a set of three natural numbers,
-  * a < b < c, for which,
+ * a < b < c, for which,
  *       a^2 + b^2 = c^2
  *
  * For example, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
@@ -29,7 +29,7 @@ int main ()
     // Loop and check for all a < b, find all products of abc that have the sum
     for(int a=1; a<=abcSum; a++) {
         for(int b=a; b<=abcSum; b++) {
-            if(a+b+sqrt(a*a+b*b) == 1000) product.push_back(a*b*sqrt(a*a+b*b));
+            if(a+b+sqrt(a*a+b*b) == abcSum) product.push_back(a*b*sqrt(a*a+b*b));
         }
     }
 
