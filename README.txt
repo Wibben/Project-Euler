@@ -16,3 +16,4 @@ pX	Name
 9	Special Pythagorean Triplet
 10	Summation of Primes
 11	Largest Product in a Grid
+12	Highly Divisible Triangular Number
