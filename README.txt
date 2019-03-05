@@ -17,3 +17,4 @@ pX	Name
 10	Summation of Primes
 11	Largest Product in a Grid
 12	Highly Divisible Triangular Number
+13	Large Sum
