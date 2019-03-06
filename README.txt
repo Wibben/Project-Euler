@@ -18,3 +18,4 @@ pX	Name
 11	Largest Product in a Grid
 12	Highly Divisible Triangular Number
 13	Large Sum
+14	Longest Collatz Sequence
