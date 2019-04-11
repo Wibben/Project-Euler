@@ -24,7 +24,7 @@ double factorial(double n)
 
 int main ()
 {
-    // Mathod: The numeber of ways to reach the bottom right corner
+    // Method: The numeber of ways to reach the bottom right corner
     // of an N x N grid is actually the number at row n=2*N and column k=N
     // of the Pascal's Triangle. Which can be computed by nCk = n!/(k!*(n-k)!)
     int N = 20;
@@ -33,7 +33,8 @@ int main ()
 
     // Compute nCk
     double routes = factorial(n)/(factorial(k)*factorial(n-k)) ;
-
+	
+	// Output the number of routes
     cout << "There are " << setprecision(15) << routes << " routes from the top left to the bottom right of an ";
     cout << N << " x " << N  << " grid" << endl;
 
