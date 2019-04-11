@@ -19,3 +19,5 @@ pX	Name
 12	Highly Divisible Triangular Number
 13	Large Sum
 14	Longest Collatz Sequence
+15	Lattice Paths
+16	Power Digit Sum
