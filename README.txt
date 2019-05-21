@@ -21,3 +21,7 @@ pX	Name
 14	Longest Collatz Sequence
 15	Lattice Paths
 16	Power Digit Sum
+	
+18	Maximum Path Sum I
+
+67	Maximum Path Sum II
