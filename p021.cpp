@@ -1,5 +1,5 @@
 /**
- * Problem 5: Smallest Multiple
+ * Problem 21: Amicable Numbers
  *
  * Let d(n) be defined as the sum of proper divisors of n 
  * (numbers less than n which divide evenly into n).
