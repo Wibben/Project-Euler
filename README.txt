@@ -24,7 +24,9 @@ pX	    Name
 17      Number Letter Counts
 18      Maximum Path Sum I
 19      Counting Sundays
-
+20      Factorial Digit Sum
 21      Amicable Numbers
+
+25      1000-digit Fibonacci Number
 
 67	    Maximum Path Sum II
