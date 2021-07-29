@@ -26,7 +26,9 @@ pX	    Name
 19      Counting Sundays
 20      Factorial Digit Sum
 21      Amicable Numbers
-
+22      Names Scores
+23      Non-abundant Sums
+24      Lexicographic Permutations
 25      1000-digit Fibonacci Number
 
 67	    Maximum Path Sum II
