@@ -30,5 +30,6 @@ pX	    Name
 23      Non-abundant Sums
 24      Lexicographic Permutations
 25      1000-digit Fibonacci Number
+26      Reciprocal Cycles
 
 67	    Maximum Path Sum II
