@@ -31,5 +31,6 @@ pX	    Name
 24      Lexicographic Permutations
 25      1000-digit Fibonacci Number
 26      Reciprocal Cycles
+27      Quadratic Primes
 
 67	    Maximum Path Sum II
