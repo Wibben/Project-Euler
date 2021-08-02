@@ -32,5 +32,6 @@ pX	    Name
 25      1000-digit Fibonacci Number
 26      Reciprocal Cycles
 27      Quadratic Primes
+28      Number Spiral Diagonals
 
 67	    Maximum Path Sum II
