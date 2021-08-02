@@ -50,8 +50,9 @@ int main()
         is_prime = true;
         // Assuming the number is prime, if it is found to be non prime set the flag
         // to false and exit loop to check indivisibility
-        for(int j=0; j<primes.size() && is_prime && primes[j]<i/2; j++) {
+        for(int j=0,max_check=i; j<primes.size() && is_prime && primes[j]<max_check; j++) {
             if(i%primes[j]==0) is_prime = false;
+            max_check = i/primes[j];
         }
 
         if(is_prime) primes.push_back(i);
