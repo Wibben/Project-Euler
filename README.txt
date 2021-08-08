@@ -33,5 +33,6 @@ pX	    Name
 26      Reciprocal Cycles
 27      Quadratic Primes
 28      Number Spiral Diagonals
+29      Distinct Powers
 
 67	    Maximum Path Sum II
